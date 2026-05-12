@@ -1,25 +1,27 @@
 # Jayda Germain's Portfolio
 
-### This is a portfolio that showcases the data analytics and visualization projects I have worked on, from school or just in my free time.
+Marketing analytics professional with 3+ years of experience analyzing digital media performance, building reports, and translating campaign data into business insights. I recently completed my MBA in Business Analytics and am building a portfolio focused on data analysis, visualization, and business decision-making.
 
 
-![Portfolio Gif](/images/portfolio.gif)
+## Skills
 
-## Want to learn How to create a template like this ?
+- Power BI
+- Tableau
+- Excel
+- Google Ads
+- Meta Ads
+- Data Visualization
+- R (beginner)
+- Python (beginner)
+- SQL (beginner)
+- 
 
+## Projects
+### Operations Performance Dashboard
+Built an interactive Power BI dashboard to analyze production, storage, and shipping performance across factory locations. Created calculated time-based metrics and visualizations to compare monthly trends by factory, product, year, and warehouse.
 
-
-## Features
-
-- Clean, Simple and Modern UI Design.
-- Uses No CSS or JavaScript Frameworks or libraries as dependencies.
-- Built with only HTML, CSS and a bit of JavaScript 🔨.
-- Well Organized Documentation.
-- Keyboard support.
-- Fully Responsive.
-- Loads fast ⚡.
-
-## Lighthouse Report
+**Tools:** Power BI, Excel  
+**Skills:** Dashboard design, data visualization, operations analysis, trend analysis, business reporting
 
 ![Lighthouse Report](/images/lighthouse-report.png)
 
@@ -175,7 +177,7 @@ For changing the screenshot:
             me is via an email.
           </p>
           <!-- Replace the email with yours -->
-          <a href="mailto:you@example.com" class="btn">you@example.com</a>
+          <a href="mailto:jayda.germain1@gmail.com" class="btn">you@example.com</a>
         </div>
       </div>
 </section>
