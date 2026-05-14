@@ -22,7 +22,7 @@ Built an interactive Power BI dashboard to analyze production, storage, and ship
 **Tools:** Power BI, Excel  
 **Skills:** Dashboard design, data visualization, operations analysis, trend analysis, business reporting
 
-![Lighthouse Report](/images/lighthouse-report.png)
+![Bayani Bulb Bases Report](/images/Bayani Bulb Bases Dashboard)
 
 ### Contributions are warmly welcomed ❤️.
 
