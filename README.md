@@ -24,7 +24,13 @@ Built an interactive Power BI dashboard to analyze production, storage, and ship
 
 ![Bayani Bulb Bases Report](/images/Bayani-Bulb-Bases-Dashboard)
 
-### Contributions are warmly welcomed ❤️.
+## Football Data Analytics & Statistical Modeling
+
+Analyzed football performance datasets using probability, sampling, descriptive statistics, and data visualization techniques to identify trends and interpret performance patterns. Applied statistical concepts to evaluate relationships within large sports datasets and communicate findings through visual analysis.
+
+**Tools:** Excel, Statistical Analysis, Data Visualization  
+**Skills:** Probability analysis, sampling techniques, descriptive statistics, trend analysis, data storytelling
+
 
 ## Getting Started 🚀
 
