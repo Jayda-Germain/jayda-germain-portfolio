@@ -14,7 +14,6 @@ Marketing analytics professional with 3+ years of experience analyzing digital m
 - R (beginner)
 - Python (beginner)
 - SQL (beginner)
-- 
 
 ## Projects
 ### Operations Performance Dashboard
